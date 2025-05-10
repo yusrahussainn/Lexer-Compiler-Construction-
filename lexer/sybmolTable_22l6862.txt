@@ -1,0 +1,6 @@
+pos: 0,	lexeme: _num
+pos: 1,	lexeme: num_
+pos: 2,	lexeme: n_umber
+pos: 3,	lexeme: cou_se
+pos: 4,	lexeme: course_
+pos: 5,	lexeme: _flag

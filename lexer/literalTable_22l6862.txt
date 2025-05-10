@@ -1,0 +1,3 @@
+pos: 0,	lexeme: c
+pos: 1,	lexeme: Compiler Construction
+pos: 2,	lexeme: Ok
